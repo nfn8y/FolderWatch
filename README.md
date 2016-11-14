@@ -2,7 +2,7 @@
 
 Purpose:
 --------
-FolderWatch is a utility that takes watched a specific folder for creation of any new file or folder in it and moves them
+FolderWatch is a utility that watches a specific folder for creation of any new file or folder in it and moves them
 to another folder.
 
 Input Specifics:
